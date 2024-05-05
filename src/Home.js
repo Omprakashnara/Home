@@ -1,5 +1,5 @@
 import React from 'react';
-import './stylesheet.css';
+import './Stylesheet.css';
 
 function Home({ onNavigate }) {
     const backgroundImageStyle = {
